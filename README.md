@@ -1,2 +1,2 @@
 # Chess
-Chess in Unity
+To play the game download Chess passion.exe
